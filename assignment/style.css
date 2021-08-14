@@ -1,7 +1,16 @@
 header {
   background-color: #355C7D;
   color: #F67280;
-  margin: auto;
-  width: 50%;
+  text-align: center;
+}
 
+main {
+  background-color: #D3D3D3;
+  padding: 1em;
+}
+
+body {
+  background-image: url("record.png");
+  background-repeat: repeat-x;
+  margin: 0;
 }
